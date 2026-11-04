@@ -71,8 +71,6 @@ By cleaning and structuring over 300,000 records, I built an interactive executi
     - **Country:** `Australia`, `Canada`, `Germany`, `UK`, `USA`, `Unknown`
   - Visual buttons on the left facilitate direct navigation between `DASHBOARD`, `SUMMARY`, and `DATA` sheets.
 
-> **[TODO: Add additional close-up screenshots (e.g., `./screenshots/pivot_charts.png`, `./screenshots/slicers.png`) if standalone detail views are desired.]**
-
 ---
 
 ## Key Insights
